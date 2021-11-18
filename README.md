@@ -8,11 +8,17 @@ This project is  dynamic website for volunteer to  visualize their  bacterial da
 The webpage is create a Horizontal Bar Chart , Bubble Chart , Bubble Chart for volunter to  visualize their  bacterial data using  JavaScript and html.
 data file is JSON format.
 
+# Bar Chart and  Bubble Chart 
+
 ![This is an image]( https://github.com/NadaAdem/plotydiploys/blob/main/Resources/home1.png)
 
+# Bubble Chart
 
 ![This is an image](https://github.com/NadaAdem/plotydiploys/blob/main/Resources/home2.png)
 
 ## Summary 
 
+As summary, website background was add image and using CSS to the jumbotron.
+Also, use a custom font with contrast for the colors and add  paragraph for explanation for  volunteer .
+ 
 ![This is an image](https://github.com/NadaAdem/plotydiploys/blob/main/Resources/update.png)
