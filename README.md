@@ -6,10 +6,10 @@ This project is  dynamic website for volunteer to  visualize their  bacterial da
 
 ## Result 
 
-[!Image]( https://github.com/NadaAdem/plotydiploys/blob/main/Resources/home1.png)
+![This is an image]( https://github.com/NadaAdem/plotydiploys/blob/main/Resources/home1.png)
 
-[!Image](https://github.com/NadaAdem/plotydiploys/blob/main/Resources/home2.png)
+![This is an image](https://github.com/NadaAdem/plotydiploys/blob/main/Resources/home2.png)
 
 ## Summary 
 
-[!Image](https://github.com/NadaAdem/plotydiploys/blob/main/Resources/update.png)
+![This is an image](https://github.com/NadaAdem/plotydiploys/blob/main/Resources/update.png)
