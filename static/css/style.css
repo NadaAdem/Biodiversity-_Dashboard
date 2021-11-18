@@ -1,0 +1,21 @@
+body {
+
+    color: hsl(204, 100%, 11%);
+    background-color: rgb(255, 255, 255);
+    
+  }
+ 
+  
+ .tag {
+     font-family: inherit; 
+     font-size: 1rem;
+    }  
+
+.jumbotron {
+    background-image: url("../images/background.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color:rgb(0, 0, 0) ;
+  }
+
+  
