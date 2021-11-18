@@ -19,6 +19,6 @@ data file is JSON format.
 ## Summary 
 
 As summary, website background was add image and using CSS to the jumbotron.
-Also, use a custom font with contrast for the colors and add  paragraph for explanation for  volunteer .
+Also, use a custom font with contrast for the colors and add  paragraph for explanation of each chart for user .
  
 ![This is an image](https://github.com/NadaAdem/plotydiploys/blob/main/Resources/update.png)
